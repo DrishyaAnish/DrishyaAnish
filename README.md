@@ -23,7 +23,3 @@ I'm a Full-Stack Developer with 4+ years of experience building web applications
 - React.js
 - AI integration
 - Modern full-stack application development
-
-### 📫 Connect With Me
-
-- **LinkedIn:** [Drishya Anish](https://www.linkedin.com/in/drishya-anish-8a67401b9/)
